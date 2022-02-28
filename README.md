@@ -1,6 +1,6 @@
-Head of Internal Isfit (2022 - 2023)
-Student at NTNU, I&IKT
-Living in Trondheim.
+- Head of Internal Systems, Isfit (2022 - 2023)
+- Student at NTNU, I&IKT
+- Living in Trondheim.
 
 <!---
 knutlilleaas/knutlilleaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
