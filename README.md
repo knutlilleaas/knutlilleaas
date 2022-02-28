@@ -1,4 +1,4 @@
-- Head of Internal Systems, isFit (2022 - 2023)
+- Head of Internal Systems, ISFIT23 (2022 - 2023)
 - Student at NTNU, I&IKT
 - Living in Trondheim.
 
